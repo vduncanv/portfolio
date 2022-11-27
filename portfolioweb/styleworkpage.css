@@ -1,0 +1,102 @@
+
+
+header {
+    display: flex;
+    margin-left: 0%;
+    margin-right: 0%;
+    background-color: rgb(234, 232, 232);
+}
+
+#arrow {
+
+    align-items: flex-start;
+    color: deeppink;
+    padding-top: 2rem;
+}
+
+#mywork {
+height: 6rem;
+padding-top: 2rem;
+
+}
+
+#menu {
+
+    align-items: flex-end;
+    color: deeppink;
+    padding-top: 2rem;
+}
+
+
+
+#row {
+padding-top: 3rem;
+padding-left: 2rem;
+padding-right: 2rem;
+margin-left: 0%;
+margin-right: 0%;
+background-color: rgb(234, 232, 232);
+}
+
+#flores {
+height: 21rem;
+display: block;
+margin-left: auto;
+margin-right: auto;
+margin-bottom: 1rem;
+box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+
+}
+
+#just {
+    height: 21rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1rem;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+
+    }
+
+#warrior {
+    height: 21rem;
+    align-items: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1rem;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+
+
+    }
+
+
+/* footer. */
+footer {
+
+    font-family: 'Ubuntu', sans-serif;
+    background-color: rgb(99, 99, 99);
+    margin-top: 0;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    color:rgb(255, 252, 244);
+    margin-bottom: 0;
+    
+
+}
+
+#footerwork {
+    color:rgb(255, 252, 244);
+
+}
+
+#footerabout {
+    color:rgb(255, 252, 244);
+  
+  }
+  
+  #footercontact {
+    color:rgb(255, 252, 244);
+    
+    }
+    

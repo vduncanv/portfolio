@@ -1,0 +1,119 @@
+@font-face {
+    font-family: tw;
+    src: url(img/TCM.ttf) ;
+  
+}
+
+@font-face {
+    font-family: SlimeYogurt;
+    src: url(img/SlimeYogurt.otf) ;
+  
+}
+
+header {
+    display: flex;
+    margin-left: 0%;
+    margin-right: 0%;
+    background-color: rgb(234, 232, 232);
+    padding-bottom: 3rem;
+}
+
+
+
+#arrow {
+
+    align-items: flex-start;
+    color: deeppink;
+    padding-top: 2rem;
+}
+
+#aboutme {
+height: 7rem;
+padding-top: 1rem;
+
+}
+
+
+
+
+/* info */
+
+
+p {
+font-family: tw;
+text-align: center;
+}
+
+h2 {
+    font-family: SlimeYogurt;
+    font-size: 3rem;
+    text-align: center;
+}
+#info {
+
+    background-color: rgb(234, 232, 232);
+    padding-left: 3rem;
+    padding-right: 3rem;
+    padding-bottom: 6rem;
+    padding-top: 4rem;
+    line-height:0.7rem;
+    display: grid;
+    grid-gap: 10px;
+    text-align: center;
+    align-items: center;
+  
+}
+
+#fotoperfil {
+    height: 10rem;
+    align-items: center;
+    text-align: center;
+    border-radius: 50%;
+    padding-left: 3rem;
+    padding-right: 3rem;
+
+}
+
+#textoinfo {
+    font-family: 'Ubuntu', sans-serif;
+    padding-right: 3rem;
+    padding-left: 3rem;
+
+}
+
+#iconos2 {
+text-align: center;
+align-items: flex-center;
+
+}
+
+
+/* footer. */
+footer {
+
+    font-family: 'Ubuntu', sans-serif;
+    background-color: rgb(99, 99, 99);
+    margin-top: 0;
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+    color:rgb(255, 252, 244);
+    margin-bottom: 0;
+    
+
+}
+
+#footerwork {
+    color:rgb(255, 252, 244);
+
+}
+
+#footerabout {
+    color:rgb(255, 252, 244);
+  
+  }
+  
+  #footercontact {
+    color:rgb(255, 252, 244);
+    
+    }
+    
